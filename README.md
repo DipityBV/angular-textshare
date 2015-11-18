@@ -5,7 +5,9 @@ Social sharing dialogs and popover provider for [Angular.js](http://angularjs.or
 
 ## Install
 
-You can download all necessary TeemrSocialShare files manually :
+You can download all necessary TeemrSocialShare files manually or install using bower:
+
+bower install angular-textshare
 
 ## Usage
 
