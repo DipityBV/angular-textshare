@@ -1,0 +1,34 @@
+{
+  "name": "angular-textshare",
+  "version": "0.1.10",
+  "homepage": "https://github.com/Teemr/angular-textshare",
+  "description": "Sharing selected text on twitter,facebook,google+,pinterest,linkedin",
+  "main": [
+      "js/angular-textshare.js",
+      "css/angular-textshare.css",
+      "images/tw_share-sprites-24px.png"
+  ],
+  "keywords": [
+    "angular.js",
+    "popover",
+    "sharing",
+    "social",
+    "ng",
+    "twitter",
+    "facebook",
+    "google+",
+    "pinterest",
+    "linkedin",
+    "directive"
+  ],
+  "authors": [
+    "Terry Visser"
+  ],
+  "license": "MIT",
+  "ignore": [
+
+  ],
+  "dependencies": {
+    "angular": "~1"
+  }
+}
