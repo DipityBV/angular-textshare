@@ -68,15 +68,6 @@ app.directive('teemrSocialShare',[function(){
                         description: text
                     };
                 }
-            }, {
-                logo: 'google-plus',
-                url: 'http://teemr.dev/search',
-                buildUrl: function (text) {
-                    return {
-                        search: 'php',
-                        tmp: 'raw'
-                    };
-                }
             }];
 
             element.on('mouseup', function(event) {
